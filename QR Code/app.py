@@ -1,3 +1,4 @@
+#QR Code Generator
 import qrcode
 
 
